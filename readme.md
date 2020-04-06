@@ -31,6 +31,8 @@ git init | git clone | git add
 git commit | git status | git branch 
 git merge | git pull | git push
 
+![image](Git_command_screenshot.png)
+
 
 
 
