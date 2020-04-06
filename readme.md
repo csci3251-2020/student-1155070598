@@ -8,9 +8,9 @@ There are many traits a good developer should have:
 - [x] Communication Skills 
 - [x] Fast Learner
 - [x] Time and Task Management 
-- [x] Deep and Board Technical Experience 
+- [ ] Deep and Board Technical Experience 
 
-I believe I do have some of these skills, but there is definitely room continuously improve on all these points. 
+I am continuously trying to improve on all these points.  
 
 > "No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first." - Andy Hunt
 
